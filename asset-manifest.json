@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/social-sirb/static/css/main.af8e5d2e.css",
-    "main.js": "/social-sirb/static/js/main.c29f59fd.js",
+    "main.js": "/social-sirb/static/js/main.725fef9a.js",
     "static/media/b.png": "/social-sirb/static/media/b.c43e0ab64a2156d50f14.png",
     "static/media/birds.png": "/social-sirb/static/media/birds.a0c1fe85d8a052834b1a.png",
     "index.html": "/social-sirb/index.html",
     "main.af8e5d2e.css.map": "/social-sirb/static/css/main.af8e5d2e.css.map",
-    "main.c29f59fd.js.map": "/social-sirb/static/js/main.c29f59fd.js.map"
+    "main.725fef9a.js.map": "/social-sirb/static/js/main.725fef9a.js.map"
   },
   "entrypoints": [
     "static/css/main.af8e5d2e.css",
-    "static/js/main.c29f59fd.js"
+    "static/js/main.725fef9a.js"
   ]
 }
